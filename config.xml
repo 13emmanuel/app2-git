@@ -25,7 +25,7 @@ Datos del autor
 <preference name="permissions"  value="INTERNET"/>
 
 <!--plugins-->
-<!core plugins -->
+<!--core plugins -->
 <plugin name="cordova-plugin-device" spec="~1.1.4"/>
 <plugin name="cordova-plugin-vibration" spec="~2.1.3"/>
 <plugin name="cordova-plugin-dialogs" spec="~1.3.1"/>
